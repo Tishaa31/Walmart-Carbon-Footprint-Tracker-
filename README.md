@@ -1,1 +1,1 @@
-# Walmart-Carbon-Footprint-Tracker-
+# Walmart Carbon Footprint Tracker

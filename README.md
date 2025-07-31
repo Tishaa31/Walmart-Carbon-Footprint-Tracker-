@@ -1,6 +1,6 @@
 # 🌿 ReGreenOS: Walmart’s Real-Time Carbon Tracker
 
-ReGreenOS helps Walmart shoppers and logistics teams track, reduce, and optimize carbon emissions — from cart to doorstep and beyond. By offering product-level carbon scores, smart eco-swaps, green delivery options, and gamified rewards, ReGreenOS enables sustainability without compromising on convenience.
+ReGreenOS helps Walmart shoppers and logistics teams track, reduce, and optimize carbon emissions from cart to doorstep and beyond. By offering product-level carbon scores, smart eco-swaps, green delivery options, and gamified rewards, ReGreenOS enables sustainability without compromising on convenience.
 
 ---
 
@@ -21,7 +21,7 @@ ReGreenOS helps Walmart shoppers and logistics teams track, reduce, and optimize
 **Frontend**: React.js, TailwindCSS  
 **Backend**: Node.js, Express, PostgreSQL/MongoDB  
 **AI/Microservices**: Python (for carbon footprint estimation)  
-**Gamification**: Firebase / Redis  
+**Gamification**: Firebase 
 **Dashboards**: Chart.js / Recharts
 
 ---
